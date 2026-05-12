@@ -20,4 +20,5 @@ Git & GitHub
 📬 How to Reach Me
 
 📧 Email: ntshuma2@byupathway.edu
-💼 LinkedIn: in/njabulo-tshuma-198ab5353 
+
+💼 LinkedIn: https://www.linkedin.com/in/njabulo-tshuma-198ab5353 
