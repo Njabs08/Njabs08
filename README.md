@@ -4,7 +4,7 @@ IT Student · BYU-Pathway Worldwide
 
 🎯 About Me
 
-I'm an IT student with a strong focus on Networking — passionate about how systems communicate, connect, and stay secure. I believe in continuous learning and enjoy exploring how technology shapes the world around us.
+I'm an IT student with a strong focus on Networking  passionate about how systems communicate, connect, and stay secure. I believe in continuous learning and enjoy exploring how technology shapes the world around us.
 
 🔭 Currently Working On
 
