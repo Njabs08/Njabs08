@@ -1,16 +1,23 @@
-## Hi there 👋
+##  👋 Hi, I am Njabulo Prince Tshuma
 
-<!--
-**Njabs08/Njabs08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Student · BYU-Pathway Worldwide
 
-Here are some ideas to get you started:
+🎯 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an IT student with a strong focus on Networking — passionate about how systems communicate, connect, and stay secure. I believe in continuous learning and enjoy exploring how technology shapes the world around us.
+
+🔭 Currently Working On
+
+Building my foundation in networking concepts, infrastructure, and IT systems through coursework and hands-on projects at BYU-Pathway Worldwide.
+
+🛠️ Tools & Technologies
+
+Networking Fundamentals
+TCP/IP
+Network Security
+IT Support
+Git & GitHub
+📬 How to Reach Me
+
+📧 Email: ntshuma2@byupathway.edu
+💼 LinkedIn: in/njabulo-tshuma-198ab5353 
