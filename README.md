@@ -3,8 +3,19 @@
 IT Student · BYU-Pathway Worldwide
 
 🎯 About Me
+I'm an IT student and certified IT Professional passionate about building reliable, secure, and efficient technology infrastructure. I work across networking, Linux, cloud, databases, and cybersecurity — and I enjoy solving real-world problems with clean, practical solutions.
+Outside of tech, I serve as Vice President of the Student Council at BYU Pathway Worldwide, and I'm always working on something whether it's a chess opening, a new automation workflow, or a business idea.
 
-I'm an IT student with a strong focus on Networking  passionate about how systems communicate, connect, and stay secure. I believe in continuous learning and enjoy exploring how technology shapes the world around us.
+## Certifications
+CertificateIssuerStatusIT Professional CertificateEnsign College✅
+Apr 2026Technical Support Engineer CertificateEnsign College✅ 
+Oct 2025PathwayConnect CertificateBYU Pathway Worldwide✅ 
+Aug 2025CompTIA A+CompTIA✅ 
+CompletedCompTIA Linux+CompTIA✅
+CompletedSQLLinkedIn Learning✅ 
+CompletedMicrosoft ExcelLinkedIn Learning✅ 
+CompletedAzure AI FundamentalsMicrosoft🔄 In Progress
+Cybersecurity Certification—🔄 In Progress
 
 🔭 Currently Working On
 
