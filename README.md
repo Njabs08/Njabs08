@@ -1,3 +1,7 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Hello%2C+my+name+Is+Njabulo+;Intrested+in+learning+more+in+the+IT+field" alt="Typing SVG" /></a>
+
+
+
 ##  👋 Hi, I am Njabulo Prince Tshuma
 
 IT Student · BYU-Pathway Worldwide
